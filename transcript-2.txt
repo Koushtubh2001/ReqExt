@@ -1,0 +1,28 @@
+Friend 1: Hey there! It's been ages since we last saw each other! How have you been?
+
+Friend 2: Oh my gosh, it really has been too long! I've been good, just trying to keep up with life. How about you?
+
+Friend 1: Same here, just rolling with the punches. But seeing you definitely brightens my day! What have you been up to lately?
+
+Friend 2: Well, I've been working on this new project at work, it's been pretty intense but exciting. And I finally took that trip I've been talking about forever! How about you? Any exciting news?
+
+Friend 1: That sounds awesome! Where did you go on your trip? As for me, nothing too crazy, just trying to find some balance between work and personal life. But hey, speaking of trips, we should totally plan one together sometime soon!
+
+Friend 2: Oh, absolutely! That would be incredible! Let's make it happen. So, what's been keeping you busy wiFriend 1: Just the usual grind, you know how it is. But I've been thinking about making some changes lately. Maybe exploring some new opportunities. It's always good to keep things fresh, right?
+
+Friend 2: Definitely! Change can be scary, but it's often worth it in the end. I'm here to support you no matter what you decide to do. And hey, if you need someone to bounce ideas off of, I'm your person!
+
+th work?
+So, there is something you needfresh, right?Actually i need a form with user name and password field.m your person!
+
+Friend 1: Thanks, I really appreciate that. You've always been such a great friend. So, enough about me. What's the best thing that's happened to you since we last met?
+
+Friend 2: Hmm, tough question! I'd say the best thing has been reconnecting with old friends like you. Seriously, catching up with you today has been the highlight of my week.
+
+Friend 1: Aw, you're making me blush! But seriously, I feel the same way. Friends like you make life so much better.
+
+Friend 2: Cheers to that! Here's to many more catch-ups and adventures together.
+
+Friend 1: Absolutely! Now, let's grab a drink and 
+
+Friend 2: oh! i just remebered that i also want the form to have a image background.keep this reunion going.
